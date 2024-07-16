@@ -24,7 +24,7 @@ struct ContentView: View {
                         Text("🎶🎧")
                             .font(.largeTitle)
                     }
-                    Text("Ready to play? Click here!")
+                    Text("Ready to play? Click below!")
                         .font(.title)
                         .foregroundColor(Color.black)
                     Text("⬇️⬇️⬇️")
